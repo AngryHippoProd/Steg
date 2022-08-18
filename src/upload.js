@@ -13,7 +13,7 @@ class Jello extends React.Component {
     type="file"
     id="imageFile"
     name="imageFile"
-    onChange={this.imageUpload}>
+    onChange={this.imageUpload}/>
   };
 }
 
